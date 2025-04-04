@@ -1,0 +1,9 @@
+requests
+certifi
+pyopenssl
+bs4
+rich
+pyarmor
+beautifulsoup4
+googlesearch-python
+cookiejar
